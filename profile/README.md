@@ -1,4 +1,4 @@
-![Odek AS logo](./logo.svg)
+![Odek AS logo](https://github.com/odek-no/.github/blob/main/profile/logo.svg)
 
 Velkommen til Odek AS!
 
