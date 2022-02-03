@@ -1,4 +1,4 @@
-![Odek AS logo](logo.svg)
+![Odek AS logo](./logo.svg)
 
 Velkommen til Odek AS!
 
